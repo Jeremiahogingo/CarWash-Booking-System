@@ -2,6 +2,7 @@
 📋 Project Overview
 
 A comprehensive Spring Boot backend for a Car Wash Booking System that manages services, bookings, vehicles, and customer ratings. The system provides REST APIs for a React Native frontend application.
+
 ✨ Features
 
     Service Management: Create, read, update, and delete car wash services
