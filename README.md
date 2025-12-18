@@ -534,5 +534,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 📞 Support
 
 For support, email [jerrylion39t@gmail.com] or create an issue in the GitHub repository.
-#   C a r W a s h - B o o k i n g - S y s t e m  
- 
